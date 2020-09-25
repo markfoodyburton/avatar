@@ -54,7 +54,7 @@ Onthe model's object property, add a Hubs component, "morph-audio-feedback", and
   (NB there should be only this hubs component on the model, on the collection there should be the other hubs component for the eyes)
 
 
-In 
+
 
 
 
