@@ -59,9 +59,11 @@ Onthe model's object property, add a Hubs component, "morph-audio-feedback", and
 
 
 
+For more infomation:
+https://www.afternow.io/pipeline-for-custom-avatars-in-mozzila-hubs/
 
-
-
+To quickly view the avatar your working on:
+https://gltf-viewer.donmccurdy.com/
 
 
 
